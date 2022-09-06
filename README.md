@@ -9,8 +9,6 @@
 
 ## Preview
 
-![preview video](https://streamable.com/nxtkz6)
-
-## History
+![hash-grabber preview](https://i.imgur.com/KlHrEDK.gif)
 
 hash-grabber was the first ever "program" I wrote and subsequently published to GitHub. I've went through and refactored most of my public repositories however thanks to the powers of Git you can still view my program as it was when I initially published it in early 2019.
